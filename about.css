@@ -1,0 +1,21 @@
+ body {
+     font-family: Arial, sans-serif;
+     padding: 2rem;
+     background: #f0f0f0;
+ }
+
+ .container {
+     max-width: 600px;
+     margin: auto;
+     background: white;
+     padding: 2rem;
+     border-radius: 10px;
+ }
+
+ nav {
+     margin-bottom: 2rem;
+ }
+
+ a {
+     margin-right: 1rem;
+ }
